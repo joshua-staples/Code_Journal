@@ -13,7 +13,8 @@ don't have any keys, if there are results then you can see which keys you alread
 ## Adding SSH Key to GitHub
 
 1. Copy the contents of the SSH key file by using the following command:
-```pbcopy < ~./ssh/name_of_ssh_file.pub```
+```pbcopy < ~/.ssh/id_ed25519.pub``` (if you used a different file name then insert correct name 
+instead of "id_ed25519.pub")
 2. Navigate to settings on GitHub by clicking on your profile and then clicking settings
 3. Click on Access in the sidebar
 4. Click SSH and GPG keys
