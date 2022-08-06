@@ -1,4 +1,4 @@
-## Creating an SSH Key
+## Creating an SSH Key (MacOS)
 
 1. Check for existing SSH keys in your ~/.ssh folder by running this command:
 ```ls -al ~/.ssh```
