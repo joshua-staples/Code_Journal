@@ -16,9 +16,8 @@ don't have any keys, if there are results then you can see which keys you alread
 ```pbcopy < ~/.ssh/id_ed25519.pub``` (if you used a different file name then insert correct name 
 instead of "id_ed25519.pub")
 2. Navigate to settings on GitHub by clicking on your profile and then clicking settings
-3. Click on Access in the sidebar
-4. Click SSH and GPG keys
-5. Click "New SSH Key" or "Add SSH Key"
-6. In the title field give the key a title (ie. Your_Name_MacBook_Pro)
-7. Paste your key into the "Key" field
-8. Click "Add SSH Key"
+3. Under the "Access" sidebar, click "SSH and GPG keys"
+4. Click "New SSH Key" or "Add SSH Key"
+5. In the title field give the key a title (ie. Your_Name_MacBook_Pro)
+6. Paste your key into the "Key" field
+7. Click "Add SSH Key"
