@@ -2,7 +2,7 @@
 
 1. Check for existing SSH keys in your ~/.ssh folder by running this command:
 ```ls -al ~/.ssh```
-If there are no results printed (or see no directroy matching that name) then you
+If there are no results printed (or see no directory matching that name) then you
 don't have any keys, if there are results then you can see which keys you already have generated.
 2. Generate a new SSH key:
     - Run the command, substituting your GitHub email address
