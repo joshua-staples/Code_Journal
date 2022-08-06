@@ -7,8 +7,8 @@ don't have any keys, if there are results then you can see which keys you alread
 2. Generate a new SSH key:
     - Run the command, substituting your GitHub email address
     ```ssh-keygen -t ed25519 -C "your_email@example.com"``` 
-    - When prompted for a file to save the key just hit enter for the default location
-    - Either enter a password or hit enter to have no password
+    - When prompted for a file to save the key just hit "Enter" for the default location
+    - Either enter a password or hit "Enter" to have no password
 
 ## Adding SSH Key to GitHub
 
