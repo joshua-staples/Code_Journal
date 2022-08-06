@@ -1,0 +1,60 @@
+Headings: 
+# H1
+## H2
+### H3
+
+Bold Text:
+**bold text**
+
+Italics:
+*italicized text*
+
+Blockquote:
+> blockquote
+
+Numbered List:
+1. First item
+2. Second item
+3. Third item
+
+Bulleted List:
+- First item
+- Second item
+- Third item
+
+Code Block: 
+`code`
+
+Fenced Code Block (extended):
+```code```
+
+Link:
+[title](https://www.example.com)
+
+Image:
+![alt text](image.jpg)
+
+Footnote (extended):
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+Strikethrough (extended):
+~~The world is flat.~~
+
+Task List (extended):
+- [x] Do something
+- [] Do something else
+- [] Do another thing
+
+Subscript (extended):
+H~2~0 (the two will be subscript)
+
+Superscript (extended):
+X^2^ (the 2 will be superscript)
+
+Tables:
+| Column 1 Name | Column 2 Name |
+| ------------- | ------------- |
+| Item 1 | Item 2 | 
+| Item 3 | Item 4 |
